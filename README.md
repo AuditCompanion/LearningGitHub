@@ -7,5 +7,6 @@ Learning Github concepts
 <li>5. Creation of edits_2  </li>
 <li>6. Making some independent changes to edits_1 and edits_2  </li> 
 <li>7. Merging both these changes to the master  </li>
-<li>8. ...etc ...    etc... etc.... </li>
+<li>8. Changes to edits_1 </li>
+<li>           </li>
 
