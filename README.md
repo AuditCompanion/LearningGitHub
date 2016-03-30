@@ -8,5 +8,5 @@ Learning Github concepts
 <li>6. Making some independent changes to edits_1 and edits_2  </li> 
 <li>7. Merging both these changes to the master  </li>
 <li>8. Changes to edits_1 </li>
-<li>           </li>
+<li>9.AND TO edits_2       </li>
 
